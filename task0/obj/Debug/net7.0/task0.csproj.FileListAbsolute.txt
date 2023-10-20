@@ -1,0 +1,14 @@
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\bin\Debug\net7.0\task0.exe
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\bin\Debug\net7.0\task0.deps.json
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\bin\Debug\net7.0\task0.runtimeconfig.json
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\bin\Debug\net7.0\task0.dll
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\bin\Debug\net7.0\task0.pdb
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\obj\Debug\net7.0\task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\obj\Debug\net7.0\task0.AssemblyInfoInputs.cache
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\obj\Debug\net7.0\task0.AssemblyInfo.cs
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\obj\Debug\net7.0\task0.csproj.CoreCompileInputs.cache
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\obj\Debug\net7.0\task0.dll
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\obj\Debug\net7.0\refint\task0.dll
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\obj\Debug\net7.0\task0.pdb
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\obj\Debug\net7.0\task0.genruntimeconfig.cache
+C:\Users\likho\OneDrive\Рабочий стол\Lesson 1\task0\obj\Debug\net7.0\ref\task0.dll
