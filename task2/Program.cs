@@ -2,38 +2,21 @@
 // 	3 -> Среда 
 // 5 -> Пятница
 System.Console.WriteLine("Введите число от 1 до 7");
-int number = int.Parse(Console.ReadLine());
-if (number == 1)
+
+int index = int.Parse(Console.ReadLine());
+
+string[] days = { "Понедельник", "Вторник", "среда", "четверг", "пятница", "суббота", "Воскресенье" };
+
+
+if (index >= 1 && index <= 7)
 {
-    System.Console.WriteLine("Понедельник");
+    System.Console.Write(days[index - 1]);
 }
-else if (number == 2)
-{
-    System.Console.WriteLine("Вторник");
-}
-else if (number == 3)
-{
-    System.Console.WriteLine("Среда");
-}
-else if (number == 4)
-{
-    System.Console.WriteLine("Четверг");
-}
-else if (number == 5)
-{
-    System.Console.WriteLine("Пятница");
-}
-else if (number == 6)
-{
-    System.Console.WriteLine("Суббота");
-}
-else if (number == 7)
-{
-    System.Console.WriteLine("Воскресенье");
-}
+
 
 else
 {
     System.Console.WriteLine("Такого дня недели не существует");
 }
+
 
